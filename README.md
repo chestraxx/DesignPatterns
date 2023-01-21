@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://www.d.umn.edu/~gshute/softeng/new/design_patterns/images/list.png" alt="HttpPatch" width="500"/>
+  ▁▁▁▁▁▁▁▁▁▁▁▁▁ 0%
 </p>
 
 The project includes examples of implementation of Design Patterns by GOF using C# and UML diagrams
